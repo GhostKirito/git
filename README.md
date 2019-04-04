@@ -21,9 +21,13 @@
 	O código usado para isso é somente: git push
 
 		Comando git log
-		
+	
+	O código é somente: git log 
 	É o comando usado para ver todas as atualizações já feitas nos arquivos,o nome de quem alterou, o email de quem alterou e a data e hora que foram alterados assim como o nome daquela atualização.
 		
 		
-
+		Comando git diff
+		
+	é o comando usado para conferir as diferenças entre duas versões dos arquivos
+	O código irá ficar assim: git diff (nome em amarelo da versão que aparece quando você usa o git log) (o nome em amarelo da versão que você quer ver a diferença)
 	
