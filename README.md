@@ -7,7 +7,14 @@
 		Comando git add
 		
 	É o comando usado para selecionar os arquivos que serão atualizados no github.
-	O código usado no CMD é: git add arquivo(seu nome) ou -A
-	O -A seleciona todos os arquivos na pasta selecionada
+	O código usado no CMD é: git add arquivo(nome do arquivo) ou -A
+	O -A seleciona todos os arquivos na pasta
+	
+		Comando git commit -m
+	
+	É o comando utilizado para confirmar as mudanças no arquivo e adicionar um o nome para essa versão das alterações
+	O código usado é: git commit -m "Nome da versão"
+	
+		
 
 	
