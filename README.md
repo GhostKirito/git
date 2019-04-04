@@ -20,6 +20,10 @@
 	É o comando que irá atualizar os arquivos na sua conta do github.
 	O código usado para isso é somente: git push
 
+		Comando git log
+		
+	É o comando usado para ver todas as atualizações já feitas nos arquivos,o nome de quem alterou, o email de quem alterou e a data e hora que foram alterados assim como o nome daquela atualização.
+		
 		
 
 	
