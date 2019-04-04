@@ -1,1 +1,2 @@
-# git
+O comando git clone serve para criar uma copia do arquivo do github e adicioná-lo na pagina em que o comando foi executado.
+O código para o CMD fica assim: git clone link(o link do repositório no github)
